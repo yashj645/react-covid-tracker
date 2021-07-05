@@ -18,13 +18,12 @@ ul {
  flex-wrap: wrap;
  list-style-type: none;
  padding: 0;
- margin-left: 50px;
- margin-right: 200px;
+ margin-left: 30px;
  margin-top: 42px;
  gap: 40px;
 }
 ul li {
- flex: 0 0 28.3333%;
+ flex: 0 0 28%;
  height: 188px;
  padding: 20px;
  display: flex;
